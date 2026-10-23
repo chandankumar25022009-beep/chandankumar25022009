@@ -1,4 +1,4 @@
-# chandankumar25022009
+# HY I AM CHANDAN KUMAR
 My professional GitHub profile showcasing my coding journey, Python, Data Analysis, and AI/ML projects.
 
 
